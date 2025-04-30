@@ -1,11 +1,11 @@
-Berikut adalah 10 negara di Asia beserta ibu kotanya:
-1. Indonesia - Jakarta
-2. China - Beijing
-3. India - New Delhi
-4. Jepang - Tokyo
-5. Korea Selatan - Seoul
-6. Thailand - Bangkok
-7. Vietnam - Hanoi
-8. Filipina - Manila
-9. Malaysia - Kuala Lumpur
-10. Singapura - Singapore
+Berikut adalah 10 negara di Asia beserta ibu kota dan jenis pemerintahannya:
+1. Indonesia - Jakarta - Republik
+2. China - Beijing - Republik Sosialis
+3. India - New Delhi - Republik Federal
+4. Jepang - Tokyo - Monarki Konstitusional Parlementer
+5. Korea Selatan - Seoul - Republik
+6. Thailand - Bangkok - Monarki Konstitusional
+7. Vietnam - Hanoi - Republik Sosialis
+8. Filipina - Manila - Republik
+9. Malaysia - Kuala Lumpur - Monarki Konstitusional Federal
+10. Singapura - Singapore - Republik Parlementer
